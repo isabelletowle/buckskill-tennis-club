@@ -1,0 +1,66 @@
+[
+    {
+        "memberType": "Single Adult", 
+        "duration": "Full Season", 
+        "formattedDuration": "Summer 2023 season", 
+        "full": "2,915", 
+        "partial": "1,630", 
+        "description": "description"
+    },
+    {
+        "memberType": "Couple", 
+        "duration": "Full Season", 
+        "formattedDuration": "Summer 2023 season", 
+        "full": "4,920", 
+        "partial": "2,760", 
+        "description": "description"
+    },
+    {
+        "memberType": "Family", 
+        "duration": "Full Season", 
+        "formattedDuration": "Summer 2023 season", 
+        "full": "5,380", 
+        "partial": "3,175", 
+        "description": "description"
+    },
+    {
+        "memberType": "Junior", 
+        "duration": "Full Season", 
+        "formattedDuration": "Summer 2023 season", 
+        "full": "1,840", 
+        "partial": "1,470", 
+        "description": "description"
+    },
+    {
+        "memberType": "Single Adult", 
+        "duration": "Monthly, June", 
+        "formattedDuration": "month of June", 
+        "full": "790", 
+        "partial": "580", 
+        "description": "description"
+    },
+    {
+        "memberType": "Single Adult", 
+        "duration": "Monthly, July", 
+        "formattedDuration": "month of July", 
+        "full": "1,235", 
+        "partial": "895", 
+        "description": "description"
+    },
+    {
+        "memberType": "Single Adult", 
+        "duration": "Monthly, August", 
+        "formattedDuration": "month of August", 
+        "full": "2,050", 
+        "partial": "1,315", 
+        "description": "description"
+    },
+    {
+        "memberType": "Single Adult", 
+        "duration": "Monthly, September", 
+        "formattedDuration": "month of September", 
+        "full": "1,100", 
+        "partial": "735", 
+        "description": "description"
+    }
+]

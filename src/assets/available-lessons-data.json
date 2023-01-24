@@ -1,0 +1,122 @@
+[
+    {
+        "date": "Saturday, January 14th",
+        "lessonLength": "1 hour", 
+        "length": "1 hour", 
+        "time": "8:00 AM", 
+        "location": "onsite", 
+        "instructor": "Carlos", 
+        "startTime": "8:00",
+        "endTime": "9:00", 
+        "amOrPm": "AM", 
+        "year": "2023"
+    }, 
+    {
+        "date": "Sunday, January 15th",
+        "lessonLength": "1 hour", 
+        "length": "1 hour", 
+        "time": "8:00 AM", 
+        "location": "onsite", 
+        "instructor": "Gideon", 
+        "startTime": "8:00",
+        "endTime": "9:00", 
+        "amOrPm": "AM", 
+        "year": "2023"
+    }, 
+    {
+        "date": "Saturday, January 14th",
+        "lessonLength": "30 minutes", 
+        "length": "30 minute", 
+        "time": "8:00 AM", 
+        "location": "onsite", 
+        "instructor": "Carlos", 
+        "startTime": "8:00",
+        "endTime": "8:30", 
+        "amOrPm": "AM", 
+        "year": "2023"
+    }, 
+    {
+        "date": "Sunday, January 15th",
+        "lessonLength": "1 hour", 
+        "length": "1 hour", 
+        "time": "8:00 AM", 
+        "location": "offsite", 
+        "instructor": "Gideon", 
+        "startTime": "8:00",
+        "endTime": "9:00", 
+        "amOrPm": "AM", 
+        "year": "2023"
+    }, 
+    {
+        "date": "Sunday, January 15th",
+        "lessonLength": "1 hour", 
+        "length": "1 hour", 
+        "time": "8:00 AM", 
+        "location": "onsite", 
+        "instructor": "Gideon", 
+        "startTime": "8:00",
+        "endTime": "9:00", 
+        "amOrPm": "AM", 
+        "year": "2023"
+    }, 
+    {
+        "date": "Sunday, January 15th",
+        "lessonLength": "1 hour", 
+        "length": "1 hour", 
+        "time": "8:00 AM", 
+        "location": "onsite", 
+        "instructor": "Gideon", 
+        "startTime": "8:00",
+        "endTime": "9:00", 
+        "amOrPm": "AM", 
+        "year": "2023"
+    }, 
+    {
+        "date": "Sunday, January 15th",
+        "lessonLength": "1 hour", 
+        "length": "1 hour", 
+        "time": "8:00 AM", 
+        "location": "onsite", 
+        "instructor": "Gideon", 
+        "startTime": "8:00",
+        "endTime": "9:00", 
+        "amOrPm": "AM", 
+        "year": "2023"
+    }, 
+    {
+        "date": "Sunday, January 15th",
+        "lessonLength": "1 hour", 
+        "length": "1 hour", 
+        "time": "8:00 AM", 
+        "location": "onsite", 
+        "instructor": "Gideon", 
+        "startTime": "8:00",
+        "endTime": "9:00", 
+        "amOrPm": "AM", 
+        "year": "2023"
+    }, 
+    {
+        "date": "Sunday, January 15th",
+        "lessonLength": "1 hour", 
+        "length": "1 hour", 
+        "time": "8:00 AM", 
+        "location": "onsite", 
+        "instructor": "Gideon", 
+        "startTime": "8:00",
+        "endTime": "9:00", 
+        "amOrPm": "AM", 
+        "year": "2023"
+    }, 
+    {
+        "date": "Sunday, January 15th",
+        "lessonLength": "1 hour", 
+        "length": "1 hour", 
+        "time": "8:00 AM", 
+        "location": "onsite", 
+        "instructor": "Gideon", 
+        "startTime": "8:00",
+        "endTime": "9:00", 
+        "amOrPm": "AM", 
+        "year": "2023"
+    }
+]

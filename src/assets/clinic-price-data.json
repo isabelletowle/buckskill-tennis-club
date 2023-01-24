@@ -1,0 +1,52 @@
+[
+    {
+        "package": "1 Clinic, Non-Member", 
+        "price": "85", 
+        "formatted price": "$85.00"
+    }, 
+    {
+        "package": "1 Clinic, Member", 
+        "price": "72", 
+        "formatted price": "$72.00"
+    }, 
+    {
+        "package": "5 Clinics, Non-Member", 
+        "price": "380", 
+        "formatted price": "$380.00"
+    },
+    {
+        "package": "5 Clinics, Member", 
+        "price": "323", 
+        "formatted price": "$323.00"
+    }, 
+    {
+        "package": "10 Clinics, Non-Member", 
+        "price": "685", 
+        "formatted price": "$685.00"
+    },
+    {
+        "package": "10 Clinics, Member", 
+        "price": "582", 
+        "formatted price": "$582.00"
+    },
+    {
+        "package": "25 Clinics, Non-Member", 
+        "price": "1575", 
+        "formatted price": "$1,575.00"
+    },
+    {
+        "package": "25 Clinics, Member", 
+        "price": "1339", 
+        "formatted price": "$1,339.00"
+    },
+    {
+        "package": "50 Clinics, Non-Member", 
+        "price": "2900", 
+        "formatted price": "$2,900.00"
+    },
+    {
+        "package": "25 Clinics, Member", 
+        "price": "2465", 
+        "formatted price": "$2,465.00"
+    }
+]
