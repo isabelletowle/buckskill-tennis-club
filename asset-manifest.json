@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/buckskill-tennis-club/static/css/main.c56e16ca.css",
-    "main.js": "/buckskill-tennis-club/static/js/main.324d6ca8.js",
-    "static/js/787.0e76c5bc.chunk.js": "/buckskill-tennis-club/static/js/787.0e76c5bc.chunk.js",
-    "static/media/logo.svg": "/buckskill-tennis-club/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/buckskill-tennis-club/index.html",
-    "main.c56e16ca.css.map": "/buckskill-tennis-club/static/css/main.c56e16ca.css.map",
-    "main.324d6ca8.js.map": "/buckskill-tennis-club/static/js/main.324d6ca8.js.map",
-    "787.0e76c5bc.chunk.js.map": "/buckskill-tennis-club/static/js/787.0e76c5bc.chunk.js.map"
+    "main.css": "./static/css/main.c56e16ca.css",
+    "main.js": "./static/js/main.c351a9f3.js",
+    "static/js/787.0e76c5bc.chunk.js": "./static/js/787.0e76c5bc.chunk.js",
+    "static/media/logo.svg": "./static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "./index.html",
+    "main.c56e16ca.css.map": "./static/css/main.c56e16ca.css.map",
+    "main.c351a9f3.js.map": "./static/js/main.c351a9f3.js.map",
+    "787.0e76c5bc.chunk.js.map": "./static/js/787.0e76c5bc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c56e16ca.css",
-    "static/js/main.324d6ca8.js"
+    "static/js/main.c351a9f3.js"
   ]
 }
