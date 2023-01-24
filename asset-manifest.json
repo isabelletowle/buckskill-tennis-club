@@ -1,16 +1,33 @@
 {
   "files": {
     "main.css": "/buckskill-tennis-club/static/css/main.c56e16ca.css",
-    "main.js": "/buckskill-tennis-club/static/js/main.dd72f14e.js",
+    "main.js": "/buckskill-tennis-club/static/js/main.c6e9b7be.js",
     "static/js/787.0e76c5bc.chunk.js": "/buckskill-tennis-club/static/js/787.0e76c5bc.chunk.js",
+    "static/media/pro-maam.png": "/buckskill-tennis-club/static/media/pro-maam.5e7e5244f82b3a787226.png",
+    "static/media/junior-tournaments.png": "/buckskill-tennis-club/static/media/junior-tournaments.5aaeb8832df0acdb2b97.png",
+    "static/media/womens-singles.png": "/buckskill-tennis-club/static/media/womens-singles.afade315a5260a58b720.png",
+    "static/media/adult-doubles.png": "/buckskill-tennis-club/static/media/adult-doubles.5ec0dc1e0182d0719a4e.png",
+    "static/media/pro-am.png": "/buckskill-tennis-club/static/media/pro-am.7fb60ee9e2ad76cbe041.png",
+    "static/media/mens-singles.png": "/buckskill-tennis-club/static/media/mens-singles.e5fa4adb4ac443bb4b93.png",
+    "static/media/rodrigo.png": "/buckskill-tennis-club/static/media/rodrigo.81510674bf1f9688c214.png",
+    "static/media/carlos.png": "/buckskill-tennis-club/static/media/carlos.7416a63adadcb6aafd21.png",
+    "static/media/nik.png": "/buckskill-tennis-club/static/media/nik.e7c801a23e9e9cfa0dd9.png",
+    "static/media/gideon.png": "/buckskill-tennis-club/static/media/gideon.bbcfbe09d76857b15083.png",
+    "static/media/brandon.png": "/buckskill-tennis-club/static/media/brandon.26f59ac2e3e589cca0a4.png",
+    "static/media/leo.png": "/buckskill-tennis-club/static/media/leo.04d88b31371eabb7acce.png",
+    "static/media/hugo.png": "/buckskill-tennis-club/static/media/hugo.71d708366970a2cb9a8a.png",
+    "static/media/anett.png": "/buckskill-tennis-club/static/media/anett.d89d6c89409b946d33a3.png",
+    "static/media/grasswithflags.jpeg": "/buckskill-tennis-club/static/media/grasswithflags.7a89c17619e731e20415.jpeg",
+    "static/media/anon.png": "/buckskill-tennis-club/static/media/anon.b7780679939939aff8b2.png",
+    "static/media/GrassCourts1.jpeg": "/buckskill-tennis-club/static/media/GrassCourts1.9b2eb84646d9b00d7fe2.jpeg",
     "static/media/logo.svg": "/buckskill-tennis-club/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/buckskill-tennis-club/index.html",
     "main.c56e16ca.css.map": "/buckskill-tennis-club/static/css/main.c56e16ca.css.map",
-    "main.dd72f14e.js.map": "/buckskill-tennis-club/static/js/main.dd72f14e.js.map",
+    "main.c6e9b7be.js.map": "/buckskill-tennis-club/static/js/main.c6e9b7be.js.map",
     "787.0e76c5bc.chunk.js.map": "/buckskill-tennis-club/static/js/787.0e76c5bc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c56e16ca.css",
-    "static/js/main.dd72f14e.js"
+    "static/js/main.c6e9b7be.js"
   ]
 }
