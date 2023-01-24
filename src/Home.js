@@ -15,7 +15,7 @@ function Home() {
           <br/>
           We look forward to seeing you on the courts!
           </BodyText>
-        <ImageFullWidth src="/images/grasswithflags.jpeg"/>
+        <ImageFullWidth src="./images/grasswithflags.jpeg"/>
         <HeadingWithBorder>Directions</HeadingWithBorder>
         <Iframe 
             url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3012.956579719257!2d-72.22528568428216!3d40.96053003030994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e8bb9d03563f37%3A0xa54bc7cffd59a4cb!2sBuckskill%20Tennis%20and%20Winter%20Club!5e0!3m2!1sen!2sus!4v1673407124987!5m2!1sen!2sus"
