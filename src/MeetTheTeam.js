@@ -1,6 +1,6 @@
 
 import * as React from 'react';
-import employeeData from "./assets/meet-the-team-data.json";
+import employeeData from "./assets/meet-the-team-data";
 import EmployeeCard from './EmployeeCard';
 import Box from '@mui/material/Box';
 import HeadingWithBorder from './HeadingWithBorder';

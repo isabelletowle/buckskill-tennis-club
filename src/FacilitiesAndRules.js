@@ -1,6 +1,7 @@
 import HeadingWithBorder from "./HeadingWithBorder";
 import BodyText from "./BodyText";
 import ImageFullWidth from "./ImageFullWidth";
+import GrassCourts1 from './assets/images/GrassCourts1.jpeg'; 
 
 function FacilitiesAndRules() {
     return (
@@ -12,7 +13,7 @@ function FacilitiesAndRules() {
             <br/>
             We have a spacious club house featuring; a full service snack bar serving breakfast, lunch and snacks all day; a well stocked pro shop with racquet stringing services; bathrooms with private showers and changing area; and a relaxing lounge area. Two expansive decks surround the Club House giving you the ultimate view of your friends playing on the courts below!
           </BodyText>
-          <ImageFullWidth src="./images/GrassCourts1.jpeg"/>
+          <ImageFullWidth src={GrassCourts1}/>
           <HeadingWithBorder>Club Rules</HeadingWithBorder>
           <BodyText>
             <ul>

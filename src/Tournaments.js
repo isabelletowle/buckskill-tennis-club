@@ -1,7 +1,5 @@
 import * as React from 'react';
-import employeeData from "./assets/meet-the-team-data.json";
 import { tournamentData } from './assets/TournamentData.js';
-import EmployeeCard from './EmployeeCard';
 import TournamentCard from './TournamentCard'; 
 import Box from '@mui/material/Box';
 import HeadingWithBorder from './HeadingWithBorder';
